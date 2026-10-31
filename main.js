@@ -16,10 +16,10 @@ const links = [
     },
 
     {
-        name: "Consumables ITCS Tracking Report",
+        name: "SAP",
         category: "Work",
-        icon: "📊",
-        description: "Access the ITCS consumables tracking Excel report.",
+        icon: "",
+        description: "Access the SAP File.",
         url: "https://isbhydmoh-my.sharepoint.com/:f:/g/personal/itcs_isb_edu/IgCDgZ77bZyCTolyCUMRNovpAf96vM6txq3R4XguDPJH6GI?e=IbCYYd"
     },
 	
