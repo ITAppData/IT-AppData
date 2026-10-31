@@ -14,7 +14,15 @@ const links = [
         description: "Access the ITCS consumables tracking Excel report.",
         url: "https://isbhydmoh-my.sharepoint.com/:x:/r/personal/ajaya_kumar_isb_edu/_layouts/15/Doc.aspx?sourcedoc=%7B6E1C728E-93B5-4956-960F-6DBF27D4E5E7%7D&file=Consumables%20ITCS%20Tracking%20Report.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1&web=1"
     },
-	
+
+    {
+        name: "SAP",
+        category: "Work",
+        icon: "📁",
+        description: "Access the SAP",
+        url: "https://isbhydmoh-my.sharepoint.com/:f:/g/personal/itcs_isb_edu/IgCDgZ77bZyCTolyCUMRNovpAf96vM6txq3R4XguDPJH6GI?e=yVqFSY"
+    },
+
     {
         name: "STATA 19",
         category: "Work",
