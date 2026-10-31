@@ -16,23 +16,43 @@ const links = [
     },
 
     {
-        name: "SAP",
+        name: "Surface Recovery Image",
         category: "Work",
         icon: "📁",
-        description: "Access the SAP",
-        url: "https://isbhydmoh-my.sharepoint.com/:f:/g/personal/itcs_isb_edu/IgCDgZ77bZyCTolyCUMRNovpAf96vM6txq3R4XguDPJH6GI?e=yVqFSY"
+        description: "Access the Surface Recovery Image",
+        url: "https://support.microsoft.com/en-us/surface-recovery-image"
     },
 
+
     {
-        name: "STATA 19",
+        name: "Microsoft 365 Business",
         category: "Work",
         icon: "📁",
-        description: "Access the ITCS shared OneDrive folder.",
-        url: "https://isbhydmoh-my.sharepoint.com/:f:/g/personal/itcs_isb_edu/IgAv6pnOlglBQ7l3zwMrFu9JAbZBUWIs5_8D1zlr-Zuy2mk?e=gdoREY"
+        description: "Access the Microsoft 365 Business",
+        url: "https://www.microsoft.com/en-in/microsoft-365/microsoft-365-business"
     },
+
 
 
     // Applications
+
+
+    {
+        name: "Dell Drivers",
+        category: "Applications",
+        icon: "",
+        description: "Access the Dell drivers",
+        url: "https://www.dell.com/support/home/en-in?app=drivers"
+    },
+
+    {
+        name: "Intel Drivers",
+        category: "Applications",
+        icon: "",
+        description: "Access the Intel drivers",
+        url: "https://www.intel.com/content/www/us/en/download-center/home.html"
+    },
+
 
     {
 	name: "7-Zip",
@@ -98,6 +118,22 @@ const links = [
     description: "Download Zoom Workplace application.",
     url: "https://zoom.us/download"
    },
+
+    {
+        name: "AMD Drivers",
+        category: "Applications",
+        icon: "",
+        description: "Access the AMD drivers",
+        url: "https://www.amd.com/en/support/download/drivers.html"
+    },
+
+    {
+        name: "Adobe PRO",
+        category: "Applications",
+        icon: "",
+        description: "Access the Adobe PRO",
+        url: "https://acrs.adobe.com/go/050d04e3-9124-4fbd-958d-533461015d43"
+    },
 
 
     // IT TOOLS
