@@ -16,6 +16,14 @@ const links = [
     },
 
     {
+        name: "Consumables ITCS Tracking Report",
+        category: "Work",
+        icon: "📊",
+        description: "Access the ITCS consumables tracking Excel report.",
+        url: "https://isbhydmoh-my.sharepoint.com/:f:/g/personal/itcs_isb_edu/IgCDgZ77bZyCTolyCUMRNovpAf96vM6txq3R4XguDPJH6GI?e=IbCYYd"
+    },
+	
+    {
         name: "STATA 19",
         category: "Work",
         icon: "📁",
