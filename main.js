@@ -14,7 +14,14 @@ const links = [
         description: "Access ISB Outlook email.",
         url: "https://mail.isb.edu"
     },
-
+    {
+        name: "Research Software",
+        category: "Work",
+        icon: "📊",
+        description: "Access the Research Software tracking.",
+        url: "https://isbhydmoh.sharepoint.com/sites/InformationTechnology/Lists/Research%20Software/AllItems.aspx"
+    },
+	
     {
         name: "Consumables ITCS Tracking Report",
         category: "Work",
