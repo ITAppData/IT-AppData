@@ -8,19 +8,19 @@ const links = [
     // WORK
 
     {
-        name: "Consumables ITCS Tracking Report",
-        category: "Work",
-        icon: "📊",
-        description: "Access the ITCS consumables tracking Excel report.",
-        url: "https://isbhydmoh-my.sharepoint.com/:x:/r/personal/ajaya_kumar_isb_edu/_layouts/15/Doc.aspx?sourcedoc=%7B6E1C728E-93B5-4956-960F-6DBF27D4E5E7%7D&file=Consumables%20ITCS%20Tracking%20Report.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1&web=1"
-    },
-	
-    {
         name: "Outlook - ISB",
         category: "Work",
         icon: "📧",
         description: "Access ISB Outlook email.",
         url: "https://mail.isb.edu"
+    },
+
+    {
+        name: "Consumables ITCS Tracking Report",
+        category: "Work",
+        icon: "📊",
+        description: "Access the ITCS consumables tracking Excel report.",
+        url: "https://isbhydmoh-my.sharepoint.com/:x:/r/personal/ajaya_kumar_isb_edu/_layouts/15/Doc.aspx?sourcedoc=%7B6E1C728E-93B5-4956-960F-6DBF27D4E5E7%7D&file=Consumables%20ITCS%20Tracking%20Report.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1&web=1"
     },
 	
     {
