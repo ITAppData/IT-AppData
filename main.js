@@ -152,14 +152,7 @@ const links = [
 
 
     // IT Links
-    {
-        name: "ITCS Dump",
-        category: "IT Links",
-        icon: "",
-        description: "Access the ITCS Dump",
-        url: "https://isbhydmoh-my.sharepoint.com/:f:/g/personal/itcs_isb_edu/IgAuW2YDYkWlQqfQKKG8REuFARmtuLMtn8xS1NlJxrX75Ek?e=I9wM47"
-    },
-    
+
 
     // EDUCATION
 
