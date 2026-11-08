@@ -173,13 +173,6 @@ const links = [
 
     // OTHER
 
-    {
-        name: "Darwinbox",
-        category: "Other",
-        icon: "",
-        description: "Darwinbox",
-        url: "https://isb.darwinbox.in/user/login"
-    },
 
     {
         name: "Google",
