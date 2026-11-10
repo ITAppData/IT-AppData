@@ -150,6 +150,13 @@ const links = [
         url: "https://acrs.adobe.com/go/050d04e3-9124-4fbd-958d-533461015d43"
     },
 
+    {
+        name: "Microsoft Teams",
+        category: "Applications",
+        icon: "",
+        description: "Access the Teams",
+        url: "https://www.microsoft.com/en-in/microsoft-teams/download-app"
+    },
 
     // IT Links
 
