@@ -21,6 +21,13 @@ const links = [
         description: "Access the Research Software tracking.",
         url: "https://isbhydmoh.sharepoint.com/sites/InformationTechnology/Lists/Research%20Software/AllItems.aspx",
     },
+    {
+        name: "Service Request Make",
+        category: "Work",
+        icon: "📊",
+        description: "Access the Service Request Make.",
+        url: "https://isbhydmoh.sharepoint.com/sites/InformationTechnology/Lists/Service%20Request%20Make/AllItems.aspx?isSPOFile=1&ovuser=a4dae443%2D38ab%2D404a%2Db331%2D9d1d337fcf37%2CKollabathula%5FSophiya%2Dv%40isb%2Eedu",
+    },
 	
     {
         name: "Consumables ITCS Tracking Report",
